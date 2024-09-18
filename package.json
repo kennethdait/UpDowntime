@@ -1,0 +1,26 @@
+{
+  "name": "updowntime",
+  "version": "0.1.0",
+  "description": "> programmatic nurse workflows",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kennethdait/UpDowntime.git"
+  },
+  "keywords": [
+    "node",
+    "google-apps-script",
+    "javascript",
+    "google-workplace"
+  ],
+  "author": "Ken Dait",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kennethdait/UpDowntime/issues"
+  },
+  "homepage": "https://github.com/kennethdait/UpDowntime#readme"
+}
