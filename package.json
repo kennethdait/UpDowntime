@@ -1,0 +1,31 @@
+{
+  "name": "updowntime",
+  "version": "0.1.0",
+  "description": "Uptime for downtime.",
+  "keywords": [
+    "google-apps-script",
+    "clasp",
+    "parcel",
+    "react",
+    "react-dom"
+  ],
+  "homepage": "https://github.com/kennethdait/UpDowntime#readme",
+  "bugs": {
+    "url": "https://github.com/kennethdait/UpDowntime/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethdait/UpDowntime.git"
+  },
+  "license": "MIT",
+  "author": "Ken Dait",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@google/clasp": "github:google/clasp",
+    "@types/google-apps-script": "^1.0.97"
+  }
+}
